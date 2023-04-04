@@ -4,14 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8a3542d-00ce-4024-9b3e-5e36d73bd42e" name="Changes" comment="" />
+    <list default="true" id="f8a3542d-00ce-4024-9b3e-5e36d73bd42e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actions/AbstractMoveDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actions/Damage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actions/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actions/attack/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actions/attack/FireBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actions/upgrade/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FireBallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RedShapeDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ShapeDecorator.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,9 +56,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/edual/OneDrive/Área de Trabalho/DesignPattern/Java/AbstractFactory"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.FireBallTest.mustAttackWithCandy">
+    <configuration name="BucketTest.mustWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Decorator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BucketTest" />
+      <option name="METHOD_NAME" value="mustWork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FireBallTest.mustAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Decorator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FireBallTest" />
+      <option name="METHOD_NAME" value="mustAttack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FireBallTest.mustAttackWithCandy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Decorator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FireBallTest" />
+      <option name="METHOD_NAME" value="mustAttackWithCandy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FireBallTest.mustAttackWithCandy" />
+        <item itemvalue="JUnit.FireBallTest.mustAttack" />
+        <item itemvalue="JUnit.BucketTest.mustWork" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
