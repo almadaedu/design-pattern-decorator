@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8a3542d-00ce-4024-9b3e-5e36d73bd42e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/AbstractMoveDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/Damage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/attack/Attack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/attack/FireBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/upgrade/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FireBallTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RedShapeDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ShapeDecorator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
